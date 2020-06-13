@@ -2449,6 +2449,31 @@ section.lazy-placeholder:after {
 .cid-s1MLNzEdZ4 P {
   text-align: left;
 }
+.cid-s1NGNRhzv1 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-s1NGNRhzv1 .line {
+  background-color: #635a51;
+  color: #635a51;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s1NGNRhzv1 .section-text {
+  padding: 2rem 0;
+  text-align: left;
+  color: #4f4943;
+}
+.cid-s1NGNRhzv1 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s1NGNRhzv1 .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rXnyJtH8DC {
   padding-top: 0px;
   padding-bottom: 0px;
